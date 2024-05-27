@@ -3,6 +3,15 @@ Hola, soy ESTEBAN
 
   
   <h2 align="center">
+
+  Soy ingeniero de Sistemas y Computación egresado de la Universidad del Quindío, con
+experiencia en programación y desarrollo. Tengo habilidades en lenguajes de programación, así
+como experiencia con frameworks. Además, manejo múltiples herramientas de desarrollo.
+Me destaco por ser una persona colaborativa, puntual, responsable y efectiva en el trabajo en
+equipo, siempre dispuesto a aportar lo mejor de mí. Mi enfoque se centra en completar las tareas
+de manera rápida y eficiente, adaptándome proactivamente a las circunstancias que se
+presenten. Estoy ansioso por expandir mis habilidades en entornos profesionales dinámicos.
+
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Null3000.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
@@ -66,8 +75,6 @@ Hola, soy ESTEBAN
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&langs_count=8&theme=algolia)
-	
-![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 

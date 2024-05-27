@@ -13,7 +13,7 @@ de manera rápida y eficiente, adaptándome proactivamente a las circunstancias 
 presenten. Estoy ansioso por expandir mis habilidades en entornos profesionales dinámicos.
 
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Null3000.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Null3000.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg](https://readme-typing-svg.herokuapp.com/?duration=3000&center=true&width=450&lines=Bienvenido+a+mi+Pagina!;I%27m+Null3000.;I%27Soy+egresado+de+la+Universidad+del+Quindio.;I%27Y+soy+ingeniero+de+sistemas+y+computacion!)](https://git.io/typing-svg))
 
 
 ## Contribution Snake 

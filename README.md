@@ -1,17 +1,7 @@
 <h1 align="center">
 Hola, soy ESTEBAN 
 
-  
   <h2 align="center">
-
-  Soy ingeniero de Sistemas y Computación egresado de la Universidad del Quindío, con
-experiencia en programación y desarrollo. Tengo habilidades en lenguajes de programación, así
-como experiencia con frameworks. Además, manejo múltiples herramientas de desarrollo.
-Me destaco por ser una persona colaborativa, puntual, responsable y efectiva en el trabajo en
-equipo, siempre dispuesto a aportar lo mejor de mí. Mi enfoque se centra en completar las tareas
-de manera rápida y eficiente, adaptándome proactivamente a las circunstancias que se
-presenten. Estoy ansioso por expandir mis habilidades en entornos profesionales dinámicos.
-
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&center=true&width=450&lines=Bienvenido+a+mi+Pagina!;I%27Soy+egresado+de+la+Universidad+del+Quindio.;I%27Y+soy+ingeniero+de+sistemas+y+computacion!)](https://git.io/typing-svg)
 
@@ -19,14 +9,12 @@ presenten. Estoy ansioso por expandir mis habilidades en entornos profesionales 
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## SKILLs SUMMARY
+## Habilidades
 
-### Programming Languages
+### Lenguajes de Programación
 
 <p>
   
-
-
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
@@ -45,7 +33,7 @@ presenten. Estoy ansioso por expandir mis habilidades en entornos profesionales 
 ![1696888_48x48](https://user-images.githubusercontent.com/76852813/172723432-50ba3455-48c4-4afd-8326-1ddf54c39833.png)
 ![discord_1_48x48](https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png)
 
-### Tools
+### Herramientas
 
 <p>
 	

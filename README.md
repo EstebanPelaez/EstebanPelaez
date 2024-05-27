@@ -3,8 +3,9 @@ Hola, soy ESTEBAN
 
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&center=true&width=450&lines=Bienvenido+a+mi+Pagina!;I%27Soy+egresado+de+la+Universidad+del+Quindio.;I%27Y+soy+ingeniero+de+sistemas+y+computacion!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&center=true&width=450&lines=Bienvenido+a+mi+Perfil!;I%27Soy+egresado+de+la+Universidad+del+Quindio.;I%27Y+soy+ingeniero+de+sistemas+y+computacion!)](https://git.io/typing-svg)
 
+Soy ingeniero de Sistemas y Computación egresado de la Universidad del Quindío, con experiencia en programación y desarrollo. Tengo habilidades en lenguajes de programación, así como experiencia con frameworks. Además, manejo múltiples herramientas de desarrollo
 
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)

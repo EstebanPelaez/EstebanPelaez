@@ -27,7 +27,7 @@ Hola, soy ESTEBAN
 ### Frameworks
 
 <p>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#F4F2ED" rx="60"/><path fill="#E23237" d="M34.25 61.125L127.325 28L222.85 60.6125L207.412 183.7L127.325 228L48.5375 184.275L34.25 61.125Z"/><path fill="#B52E31" d="M222.85 60.6125L127.325 28V228L207.412 183.7L222.85 60.6125Z"/><path fill="#fff" d="M127.469 51.375L69.4688 180.375L91.1125 179.937L102.8 150.788H154.675L167.375 180.163L188.012 180.6L127.469 51.375ZM127.612 92.7875L147.237 133.769H110.5L127.669 92.7875H127.612Z"/></svg>
 ![aframe-logo_48x48](https://user-images.githubusercontent.com/76852813/172721192-a712983a-47d4-41a5-a1ed-abf4113cff93.png)
 ![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
 ![1696888_48x48](https://user-images.githubusercontent.com/76852813/172723432-50ba3455-48c4-4afd-8326-1ddf54c39833.png)
@@ -36,7 +36,7 @@ Hola, soy ESTEBAN
 ### Herramientas
 
 <p>
-	
+
 ![icons8-git](https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg)
 ![icons8-github](https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg)
 ![icons8-intellij-idea](https://user-images.githubusercontent.com/76852813/172722224-2df3bb34-d501-4daf-aa6d-af8c18335202.svg)

@@ -14,7 +14,7 @@ Hola, soy ESTEBAN
 ### Lenguajes de Programación
 
 <p>
-  
+[![My Skills](https://skillicons.dev/icons?i=java,python,golang,sql,javascript,css,html,c++)](https://skillicons.dev)
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
@@ -25,11 +25,7 @@ Hola, soy ESTEBAN
 
 ### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,spring,bootstrap)](https://skillicons.dev)
-![aframe-logo_48x48](https://user-images.githubusercontent.com/76852813/172721192-a712983a-47d4-41a5-a1ed-abf4113cff93.png)
-![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
-![1696888_48x48](https://user-images.githubusercontent.com/76852813/172723432-50ba3455-48c4-4afd-8326-1ddf54c39833.png)
-![discord_1_48x48](https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png)
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,spring,bootstrap,github)](https://skillicons.dev)
 
 ### Herramientas
 

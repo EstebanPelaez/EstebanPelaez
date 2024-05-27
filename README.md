@@ -18,10 +18,10 @@ Hola, soy ESTEBAN
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
-<i class="fa-brands fa-java"></i>
 ![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
 ![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
 <img width="48" alt="Processing 2021 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/64px-Processing_2021_logo.svg.png"></a>
+<img width="48" alt="Processing 2021 logo" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/64px-Processing_2021_logo.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373284%2Fangular_logo_logos_icon&psig=AOvVaw2a8JLmMRK9GON-912OdBgh&ust=1716920503181000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLChv7W5roYDFQAAAAAdAAAAABAI)"></a>
 
 
 

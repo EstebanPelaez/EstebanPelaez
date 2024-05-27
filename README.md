@@ -5,8 +5,7 @@ Hola, soy ESTEBAN
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&center=true&width=450&lines=Bienvenido+a+mi+Perfil!;I%27Soy+egresado+de+la+Universidad+del+Quindio.;I%27Y+soy+ingeniero+de+sistemas+y+computacion!)](https://git.io/typing-svg)
 
-<h3 align="center">
-con
+<h3 align="left">
 Tengo experiencia en programación y desarrollo. Tengo habilidades en lenguajes de programación, así como experiencia con frameworks. Además, manejo múltiples herramientas de desarrollo. Me destaco por ser una persona colaborativa, puntual, responsable y efectiva en el trabajo en equipo, siempre dispuesto a aportar lo mejor de mí. Mi enfoque se centra en completar las tareas de manera rápida y eficiente, adaptándome proactivamente a las circunstancias que se presenten. Estoy ansioso por expandir mis habilidades en entornos profesionales dinámicos
 
 ## Contribution Snake 

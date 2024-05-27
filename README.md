@@ -13,7 +13,7 @@ Hola, soy ESTEBAN
 
 ### Lenguajes de Programación
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,golang,sql,javascript,css,html,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,golang,mysql,javascript,css,html,c++)](https://skillicons.dev)
 
 
 ### Frameworks
@@ -22,6 +22,7 @@ Hola, soy ESTEBAN
 
 ### Herramientas
 
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,github,intellijidea,virtualbox,excel,aws,figma,adobe,selenium)](https://skillicons.dev)
 <p>
 
 ![icons8-git](https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg)
